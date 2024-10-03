@@ -1,8 +1,8 @@
-# ut3xx gnu architecture common lisp [common-lisp](https://www.gnu.org/software/emacs/manual/elisp.html)
+# k3wwp gnu architecture common R [R](https://www.r-project.org/about.html)
 
-Business logic lanaguage common lisp to gnu atrchitecture pl,atform emacs IDEs to logical series stream
+Business logic language common R to gnu architecture platform emacs IDEs to logical series stream
 formation academic gnu to hackers common lisp offices about situation needs logic of measure level to
-produce the education of master to math and science and phsyics and chemical and dynamic to dialetic 
+produce the education of master to math and science and physics and chemical and dynamic to dialetic 
 about conduction series stream. 
 
 1) news list command lisp 
