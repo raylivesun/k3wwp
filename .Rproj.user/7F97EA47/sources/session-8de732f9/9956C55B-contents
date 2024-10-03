@@ -1,11 +1,11 @@
 # k3wwp gnu architecture common R [R](https://www.r-project.org/about.html)
 
 Business logic language common R to gnu architecture platform emacs IDEs to logical series stream
-formation academic gnu to hackers common lisp offices about situation needs logic of measure level to
+formation academic gnu to hackers common R offices about situation needs logic of measure level to
 produce the education of master to math and science and physics and chemical and dynamic to dialetic 
 about conduction series stream. 
 
-1) news list command lisp 
+1) news list command R 
 2) news list command hacker
 3) news list command offices
 
@@ -13,17 +13,17 @@ the product list series stream this to formation linear expression numeric to ma
 product to make stream documenation linear guides space numeric formation objective of program static
 linear the expression util method static call message formed in usages link document guides.
 
-1) news list command IDEs lisp
-2) news list command IDEs hacker lisp
-3) news list command IDEs offices lisp
+1) news list command IDEs R
+2) news list command IDEs hacker R
+3) news list command IDEs offices R
 
 the mesasure level topic to reference net logic series stream programming documenation gnu architacture
 formal linear series stream document guides procedural tools IDEs connect the matrix of mechanism gnu
-list lisp to form the common lisp.
+list R to form the common R.
 
-1) IDEs portacle emacs lisp
-2) IDEs portacle hacker lisp
-3) IDEs portacle office lisp
+1) IDEs portacle emacs R
+2) IDEs portacle hacker R
+3) IDEs portacle office R
 
 
 # author business
